@@ -1,0 +1,1 @@
+A Javascrpit project that generates a random message.
