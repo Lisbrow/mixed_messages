@@ -1,8 +1,8 @@
 // Objects arrays used in random generator for story
-const animals = ['ducks', 'squirrels', 'geese'];
+const animals = ['ducks', 'sparrows', 'geese', 'pigeons', 'doves', 'starlings'];
 const place = ['pond', 'park', 'garden'];
-const moreAnimals = ['raccoons', 'opposums', 'rabbits'];
-const moreMoreAnimals = ['deer', 'hedgehogs', 'foxes'];
+const moreAnimals = ['raccoons', 'opposums', 'rabbits', 'skunks', 'squirrels'];
+const moreMoreAnimals = ['deer', 'hedgehogs', 'foxes', 'moles', 'ferrets'];
 
 // Story with random generator for objects
 const generateMessage = () => {
