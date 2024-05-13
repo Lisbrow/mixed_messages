@@ -1,6 +1,6 @@
-# Karen and the Neighborhood Animals Message Generator
+# Karen and the Neighborhood Animals Mixed Messages
 
-Welcome to Karen and the Neighborhood Animals Message Generator! This is a simple JavaScript program that generates random messages about Karen and her encounters with neighborhood animals that she tries to shoo away.
+Welcome to Karen and the Neighborhood Animals Mixed Messages! This is a simple JavaScript program that generates random messages about Karen and her encounters with neighborhood animals that she tries to shoo away.
 
 ## Project Overview
 
