@@ -12,3 +12,7 @@ This project is a message generator program built using JavaScript. Every time t
 - Utilize Git version control for project management
 - Use the command line for development and project execution
 - Develop the project locally on your computer
+
+## Languages Used
+
+- JavaScript
